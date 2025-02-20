@@ -1,1 +1,1 @@
-# IoT-Application-Management
+# Repository for TechTalk Demos 
